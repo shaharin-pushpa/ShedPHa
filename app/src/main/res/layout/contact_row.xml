@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SHED Pharmaceuticals Ltd."
+            android:textColor="@color/colorPrimaryDark"
+            android:padding="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="96, Chourangi Market, 3rd Floor,"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Mirpur-10, Dhaka-1216, Bangladesh."
+        />
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimaryDark"
+    android:text="Tell : +88-02-9030376, Cell: +88-01680-395133"
+        android:layout_marginTop="10dp"/>
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimaryDark"
+    android:text="Email : salesspl79@gmail.com "
+    android:padding="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Web : www.shedpharmaceuticals.com" />
+</LinearLayout>

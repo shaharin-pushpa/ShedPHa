@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SHED</string>
+    <string name="hello">
+<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:gray;">
+  SHED Pharmaceuticals Limited is an Ayurvedic, Herbal and Nutraceuticals,
+  Agro and Food manufactures Medicine Company dedicated for health care and
+  a movement for the promotion of morality of Ayurvedic and Herbal medicine culture.
+   Shed Pharmaceutical benefits from the accumulated knowledge of Ayurvedic and Herbal,
+   blends it with the innovative latest scientific technology and converts
+   it into efficacious Ayurvedic and Herbal medicine to cure the sufferings of mankind.
+ </body>
+</html>
+]]>
+</string>
+</resources>

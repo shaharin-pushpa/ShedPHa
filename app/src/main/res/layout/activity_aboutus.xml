@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/inset_web_view"
+    android:background="@drawable/back2img"
+    tools:context=".AboutusActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About SHED Pharmaceuticals Limited"
+        android:textSize="20sp"
+        android:textColor="#1D8348"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="50"
+        android:layout_marginLeft="5dp"
+        android:text=""
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="5dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15sp"
+        android:singleLine="false"
+        android:id="@+id/other"/>
+
+
+</LinearLayout>
